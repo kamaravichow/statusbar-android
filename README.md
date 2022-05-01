@@ -1,5 +1,8 @@
 # Statusbar
 
+[![](https://jitpack.io/v/kamaravichow/statusbar-android.svg)](https://jitpack.io/#kamaravichow/statusbar-android)
+
+
 ## Installation
 ```groovy
 implementation 'com.github.kamaravichow:statusbar-android:0.0.1'
